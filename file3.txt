@@ -2,3 +2,5 @@ Este é o exemplo de um ficheiro de texto file3
 
 
 Alterações para os exercícios no fim do ponto 8
+
+Teste para github
